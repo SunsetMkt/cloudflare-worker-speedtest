@@ -7,7 +7,7 @@
     "deploy": "wrangler publish"
   },
   "devDependencies": {
-    "wrangler": "^2.1.10"
+    "wrangler": "^2.20.2"
   },
   "dependencies": {
     "filesize-parser": "^1.5.0",
